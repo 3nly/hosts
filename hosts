@@ -21,10 +21,17 @@
 0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 0.0.0.0 api.bugfender.com
 0.0.0.0 mobile.launchdarkly.com
+0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 api.splkmobile.com
+0.0.0.0 b57f1629.api.splkmobile.com
 0.0.0.0 cdn.amplitude.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 logx.optimizely.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 cdn.branch.io
 #</personal-entries>
 
 #<Google>
@@ -35,6 +42,7 @@
 #</Google>
 
 #<Samshit>
+0.0.0.0 capi.samsungcloud.com
 0.0.0.0 auth.samsungosp.com
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 samsungrm.net
