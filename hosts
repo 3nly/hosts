@@ -32,6 +32,8 @@
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 cdn.branch.io
+0.0.0.0 improving.duckduckgo.com
+0.0.0.0 slions.net
 #</personal-entries>
 
 #<Google>
@@ -39,6 +41,8 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 firebaseinstallations.googleapis.com
 #</Google>
 
 #<Samshit>
@@ -64,6 +68,7 @@
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 config.mobile.yahoo.com
+0.0.0.0 api-http2.tumblr.com
 #</Yahoo>
 
 #<Fecesbook>
@@ -361,7 +366,7 @@
 0.0.0.0 spynet2.microsoft.com 
 0.0.0.0 spynetalt.microsoft.com 
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net 
-0.0.0.0 telecommand.telemetry.microsoft.com.nsatðc.net 
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatÃ°c.net 
 0.0.0.0 telemetry.appex.bing.net:443 
 0.0.0.0 win10.ipv6.microsoft.com 
 #</Microsoft>
